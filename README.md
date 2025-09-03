@@ -27,11 +27,11 @@ The work demonstrates the use of **classes, constructors, inheritance, and polym
 
 ## ▶️ How to Run
 1. Make sure you have **Python 3** installed.
-2. Download the file: `assignment1_activity2.py`
+2. Download the file: `WEEK 5 OOP`
 3. Open a terminal/command prompt and run:
 
 ```bash
-python assignment1_activity2.py
+WEEK 5 OOP.py
 ```
 
 4. You will see output showing:
