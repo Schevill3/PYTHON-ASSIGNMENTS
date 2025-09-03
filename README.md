@@ -41,6 +41,5 @@ WEEK 5 OOP.py
 ---
 
 ## 📂 Files Included
-- `assignment1_activity2.py` → Main Python code file
-- `assignment1_activity2.pdf` → PDF version (for submission)
+- `WEEK 5 00P` → Main Python code file
 - `README.md` → This documentation
